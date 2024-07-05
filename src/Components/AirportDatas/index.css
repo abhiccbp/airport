@@ -1,0 +1,9 @@
+.cont-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+}
+.main {
+  display: flex;
+}
